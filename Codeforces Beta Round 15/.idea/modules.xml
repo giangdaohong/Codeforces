@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Codeforces_Beta_Round_15.iml" filepath="$PROJECT_DIR$/.idea/modules/Codeforces_Beta_Round_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/A. Cottage Village/Codeforces_Beta_Round_15.Problems-A._Cottage_Village.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/A. Cottage Village/Codeforces_Beta_Round_15.Problems-A._Cottage_Village.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/A. Cottage Village/Codeforces_Beta_Round_15.Problems-A._Cottage_Village.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/A. Cottage Village/Codeforces_Beta_Round_15.Problems-A._Cottage_Village.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/A. Cottage Village/Codeforces_Beta_Round_15.Problems-A._Cottage_Village.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/A. Cottage Village/Codeforces_Beta_Round_15.Problems-A._Cottage_Village.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/B. Laser/Codeforces_Beta_Round_15.Problems-B._Laser.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/B. Laser/Codeforces_Beta_Round_15.Problems-B._Laser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/B. Laser/Codeforces_Beta_Round_15.Problems-B._Laser.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/B. Laser/Codeforces_Beta_Round_15.Problems-B._Laser.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/B. Laser/Codeforces_Beta_Round_15.Problems-B._Laser.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/B. Laser/Codeforces_Beta_Round_15.Problems-B._Laser.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/C. Industrial Nim/Codeforces_Beta_Round_15.Problems-C._Industrial_Nim.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/C. Industrial Nim/Codeforces_Beta_Round_15.Problems-C._Industrial_Nim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/C. Industrial Nim/Codeforces_Beta_Round_15.Problems-C._Industrial_Nim.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/C. Industrial Nim/Codeforces_Beta_Round_15.Problems-C._Industrial_Nim.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/C. Industrial Nim/Codeforces_Beta_Round_15.Problems-C._Industrial_Nim.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/C. Industrial Nim/Codeforces_Beta_Round_15.Problems-C._Industrial_Nim.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/D. Map/Codeforces_Beta_Round_15.Problems-D._Map.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/D. Map/Codeforces_Beta_Round_15.Problems-D._Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/D. Map/Codeforces_Beta_Round_15.Problems-D._Map.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/D. Map/Codeforces_Beta_Round_15.Problems-D._Map.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/D. Map/Codeforces_Beta_Round_15.Problems-D._Map.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/D. Map/Codeforces_Beta_Round_15.Problems-D._Map.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/E. Triangles/Codeforces_Beta_Round_15.Problems-E._Triangles.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/E. Triangles/Codeforces_Beta_Round_15.Problems-E._Triangles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/E. Triangles/Codeforces_Beta_Round_15.Problems-E._Triangles.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/E. Triangles/Codeforces_Beta_Round_15.Problems-E._Triangles.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/E. Triangles/Codeforces_Beta_Round_15.Problems-E._Triangles.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/E. Triangles/Codeforces_Beta_Round_15.Problems-E._Triangles.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Codeforces_Beta_Round_15.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Codeforces_Beta_Round_15.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Codeforces_Beta_Round_15.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Codeforces_Beta_Round_15.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Codeforces_Beta_Round_15.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Codeforces_Beta_Round_15.util.test.iml" />
+    </modules>
+  </component>
+</project>

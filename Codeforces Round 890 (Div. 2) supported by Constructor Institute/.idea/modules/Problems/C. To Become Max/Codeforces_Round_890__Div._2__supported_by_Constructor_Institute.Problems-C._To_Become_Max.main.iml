@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Problems-C._To_Become_Max:main" external.linked.project.path="$MODULE_DIR$/../../../../Problems/C. To Become Max" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Codeforces_Round_890__Div._2__supported_by_Constructor_Institute" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../Problems/C. To Become Max/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Problems/C. To Become Max/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Problems/C. To Become Max/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Codeforces_Round_890__Div._2__supported_by_Constructor_Institute.util.main" />
+  </component>
+</module>
